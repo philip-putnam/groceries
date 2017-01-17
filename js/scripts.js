@@ -23,6 +23,8 @@ $(document).ready(function() {
         num += 1;
     });
 
+    $(".alphabetical-upper").show();
+
     event.preventDefault();
   });
 });
